@@ -18,3 +18,9 @@ React Template Generator for 2018 Stack
 <!-- usage -->
 # Commands
 <!-- commands -->
+# RoadMap
+Feature | Contributor | Status
+--- | --- | ---
+Create Dumb and Smart Components | Ashif | **PENDING**
+Add Component as per React 16.0 | Gaurav | **PENDING**
+Add Redux Template to Component | Ashif | **PENDING**
